@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfFullTextSearch",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfFullTextSearch",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
