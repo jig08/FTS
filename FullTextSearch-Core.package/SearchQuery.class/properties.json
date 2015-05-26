@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SearchQuery",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

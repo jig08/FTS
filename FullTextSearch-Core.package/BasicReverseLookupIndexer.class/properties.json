@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Core-BasicReverseLookup",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BasicReverseLookupIndexer",
+	"pools" : [
+		 ],
+	"super" : "AbstractReverseLookupIndexer",
+	"type" : "normal" }

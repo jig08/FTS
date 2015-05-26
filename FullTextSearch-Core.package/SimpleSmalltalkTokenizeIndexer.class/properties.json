@@ -1,0 +1,17 @@
+{
+	"category" : "FullTextSearch-Core-BasicReverseLookup",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tokenIndex",
+		"currentMethod",
+		"splitCharacters",
+		"stopStrings" ],
+	"name" : "SimpleSmalltalkTokenizeIndexer",
+	"pools" : [
+		 ],
+	"super" : "AbstractReverseLookupIndexer",
+	"type" : "normal" }

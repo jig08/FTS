@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Core-BasicReverseLookup",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BasicReverseLookupStoppingIndex",
+	"pools" : [
+		 ],
+	"super" : "BasicReverseLookupIndex",
+	"type" : "normal" }

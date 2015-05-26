@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MinusSearchQuery",
+	"pools" : [
+		 ],
+	"super" : "BinaryQuery",
+	"type" : "normal" }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:put:" : "benA 10/31/2012 11:12",
+		"initialize" : "benA 10/31/2012 15:01",
+		"newIndexer" : "BenjaminAREZKI 11/23/2012 19:00",
+		"queryString:" : "BenjaminAREZKI 11/26/2012 12:50",
+		"remove:" : "benA 10/31/2012 15:23" } }

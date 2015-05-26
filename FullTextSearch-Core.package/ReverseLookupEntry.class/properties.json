@@ -1,0 +1,15 @@
+{
+	"category" : "FullTextSearch-Core-BasicReverseLookup",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"position",
+		"token" ],
+	"name" : "ReverseLookupEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

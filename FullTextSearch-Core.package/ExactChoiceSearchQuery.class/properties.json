@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"query" ],
+	"name" : "ExactChoiceSearchQuery",
+	"pools" : [
+		 ],
+	"super" : "SearchQuery",
+	"type" : "normal" }

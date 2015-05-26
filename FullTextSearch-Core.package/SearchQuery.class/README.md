@@ -1,0 +1,1 @@
+I am the main interface for the query of the FullTextSearch ;

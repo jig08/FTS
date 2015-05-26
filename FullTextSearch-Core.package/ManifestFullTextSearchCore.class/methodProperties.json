@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"rejectClasses" : "BenjaminAREZKI 11/14/2012 16:55",
+		"rejectRules" : "BenjaminAREZKI 11/14/2012 16:55",
+		"ruleCollectionMessagesToExternalObjectRuleV1FalsePositive" : "BenjaminAREZKI 11/14/2012 17:14",
+		"ruleOnlyReadOrWrittenVariableRuleV1FalsePositive" : "BenjaminAREZKI 11/14/2012 17:03",
+		"ruleUsesAddRuleV1FalsePositive" : "BenjaminAREZKI 11/14/2012 16:57" },
+	"instance" : {
+		 } }

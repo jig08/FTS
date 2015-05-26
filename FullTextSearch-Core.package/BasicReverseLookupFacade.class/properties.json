@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Core-BasicReverseLookup",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BasicReverseLookupFacade",
+	"pools" : [
+		 ],
+	"super" : "FulltextSearchFacade",
+	"type" : "normal" }

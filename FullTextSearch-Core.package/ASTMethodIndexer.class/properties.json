@@ -1,0 +1,18 @@
+{
+	"category" : "FullTextSearch-Core-BasicReverseLookup",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TRBProgramNodeVisitor classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tokenIndex",
+		"currentMethod",
+		"sourceCode" ],
+	"name" : "ASTMethodIndexer",
+	"pools" : [
+		 ],
+	"super" : "AbstractReverseLookupIndexer",
+	"traitcomposition" : "TRBProgramNodeVisitor",
+	"type" : "normal" }

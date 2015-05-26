@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Core-Dummy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "DummyIndex",
+	"pools" : [
+		 ],
+	"super" : "SearchIndex",
+	"type" : "normal" }

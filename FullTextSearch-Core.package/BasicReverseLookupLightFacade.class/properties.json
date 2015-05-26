@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Core-BasicReverseLookup",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BasicReverseLookupLightFacade",
+	"pools" : [
+		 ],
+	"super" : "BasicReverseLookupFacade",
+	"type" : "normal" }

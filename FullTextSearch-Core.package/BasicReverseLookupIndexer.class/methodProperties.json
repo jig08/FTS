@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicAddMethod:" : "CamilloBruni 1/18/2013 18:42",
+		"tokenize:" : "BenjaminAREZKI 12/26/2012 18:30",
+		"tokenizeMethod:" : "BenjaminAREZKI 11/14/2012 13:21",
+		"tokenizeMethod:into:messages:stringRange:delimiter:" : "BenjaminAREZKI 1/4/2013 09:30",
+		"tokenizeMethodComment:into:messages:range:" : "BenjaminAREZKI 11/14/2012 14:01",
+		"tokenizeMethodRange:into:messages:range:" : "BenjaminAREZKI 12/21/2012 17:15",
+		"tokenizeMethodRange:into:messages:ranges:" : "BenjaminAREZKI 11/12/2012 17:14",
+		"tokenizeMethodSource:into:messages:range:" : "BenjaminAREZKI 1/17/2013 14:53" } }
