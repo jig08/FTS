@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DummySearchTest",
+	"pools" : [
+		 ],
+	"super" : "AbstractSearchFacadeTest",
+	"type" : "normal" }

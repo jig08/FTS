@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"rejectClasses" : "BenjaminAREZKI 11/14/2012 16:55",
+		"rejectRules" : "BenjaminAREZKI 11/14/2012 16:55",
+		"ruleAbstractClassRuleV1FalsePositive" : "BenjaminAREZKI 11/14/2012 17:00",
+		"ruleLongMethodsRuleV1FalsePositive" : "BenjaminAREZKI 11/14/2012 16:58",
+		"ruleRefersToClassRuleV1FalsePositive" : "BenjaminAREZKI 11/14/2012 16:58" },
+	"instance" : {
+		 } }

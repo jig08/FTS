@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ManifestFullTextSearchTest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

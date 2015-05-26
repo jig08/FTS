@@ -1,0 +1,3 @@
+class
+searchFacadeClass
+	^ BasicReverseLookupFacade 

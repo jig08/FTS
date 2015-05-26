@@ -1,0 +1,3 @@
+requirements
+documentMethodArray
+	^ { 'a'. 'b'}

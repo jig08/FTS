@@ -1,0 +1,3 @@
+testing
+isAbstract
+	^ self == AbstractSearchFacadeTest 

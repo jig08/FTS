@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jigyasagrover 5/3/2015 19:22",
+	"instvars" : [
+		 ],
+	"name" : "BasicReverseLookupTest",
+	"pools" : [
+		 ],
+	"super" : "AbstractSearchFacadeTest",
+	"type" : "normal" }

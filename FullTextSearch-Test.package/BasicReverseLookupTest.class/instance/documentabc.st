@@ -1,0 +1,3 @@
+requirements
+documentabc
+	^ AbstractSearchFacadeTest >> #documentabc

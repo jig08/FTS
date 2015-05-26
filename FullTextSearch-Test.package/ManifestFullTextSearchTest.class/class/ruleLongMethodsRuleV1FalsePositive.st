@@ -1,0 +1,3 @@
+meta data
+ruleLongMethodsRuleV1FalsePositive
+^ #(#(#(#RGMethodDefinition #(#AbstractSearchFacadeTest #testRemove1documentWith2documents #false)) #'2012-11-14T16:58:27.362+01:00') #(#(#RGMethodDefinition #(#AbstractSearchFacadeTest #testAddAndSearchWithTwoDocuments #false)) #'2012-11-14T16:58:28.665+01:00') #(#(#RGMethodDefinition #(#AbstractSearchFacadeTest #testRemoveAddAndSearch #false)) #'2012-11-14T16:58:30.178+01:00') )
