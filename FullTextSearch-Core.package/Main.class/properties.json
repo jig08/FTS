@@ -1,0 +1,18 @@
+{
+	"category" : "FullTextSearch-Core-UI",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"txtViewer",
+		"mnuTitles",
+		"box",
+		"ptm",
+		"title" ],
+	"name" : "Main",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
