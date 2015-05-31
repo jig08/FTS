@@ -4,7 +4,7 @@
 		"instance" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
 		"txtViewer",
 		"mnuTitles",
@@ -13,7 +13,11 @@
 		"title",
 		"header",
 		"srchBtn",
-		"searchFor" ],
+		"searchFor",
+		"headerMenu",
+		"langList",
+		"updateArea",
+		"viewDoc" ],
 	"name" : "Main",
 	"pools" : [
 		 ],
