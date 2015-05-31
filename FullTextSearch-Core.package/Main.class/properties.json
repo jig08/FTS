@@ -4,14 +4,16 @@
 		"instance" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"txtViewer",
 		"mnuTitles",
 		"box",
 		"ptm",
 		"title",
-		"header" ],
+		"header",
+		"srchBtn",
+		"searchFor" ],
 	"name" : "Main",
 	"pools" : [
 		 ],
