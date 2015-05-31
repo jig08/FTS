@@ -10,7 +10,8 @@
 		"mnuTitles",
 		"box",
 		"ptm",
-		"title" ],
+		"title",
+		"header" ],
 	"name" : "Main",
 	"pools" : [
 		 ],

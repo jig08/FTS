@@ -16,8 +16,10 @@ initialize
 	ptm extent: 700@500.
 	ptm alwaysShowHScrollBar: true.
 	
-	title := ImageMorph withForm: (Form fromFileNamed: FileSystem workingDirectory /'logo.gif').
-	title position: 150@30.
+	title := ImageMorph withForm: (Form fromFileNamed: FileSystem workingDirectory /'rsz_1logo.gif').
+	title position: 0@0.
+	header := ImageMorph withForm: (Form fromFileNamed: FileSystem workingDirectory /'rsz_2header.gif').
+	header position: 150@0.
 	
 	txtViewer := ptm textMorph.
 	
@@ -53,9 +55,11 @@ initialize
 	ptm position: 300@100.
 	
 	box := Morph new.
+	box title: 'sQuick' icon: title.
 	box color: Color paleOrange  .
 	box extent: (World extent).
 	box addMorph: ptm.
 	box addMorph: mnuTitles.
 	box addMorph: title .
+	box addMorph: header .
 	box openInWindow .
