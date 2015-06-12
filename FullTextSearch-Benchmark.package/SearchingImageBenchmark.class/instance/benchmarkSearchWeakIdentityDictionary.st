@@ -1,0 +1,3 @@
+as yet unclassified
+benchmarkSearchWeakIdentityDictionary
+	searchFacade search: 'WeakIdentityDictionary'

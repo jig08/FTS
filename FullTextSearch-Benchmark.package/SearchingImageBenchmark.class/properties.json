@@ -1,0 +1,14 @@
+{
+	"category" : "FullTextSearch-Benchmark",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"searchFacade" ],
+	"name" : "SearchingImageBenchmark",
+	"pools" : [
+		 ],
+	"super" : "SMarkSuite",
+	"type" : "normal" }
