@@ -9,7 +9,7 @@ versionDev: spec
 		spec blessing: #development.
 		spec
 			project: 'SMark' with: #development;
-			project: 'PetitParser' with: 'minimal'; 
+			project: 'PetitParser' with: #stable;
 			package: 'FullTextSearch-Core' with: 'FullTextSearch-Core-BenjaminAREZKI.14';
 			package: 'FullTextSearch-Test' with: 'FullTextSearch-Test-BenjaminAREZKI.13';
 			package: 'FullTextSearch-Benchmark' with: 'FullTextSearch-Benchmark-BenjaminAREZKI.1'.]

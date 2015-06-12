@@ -1,9 +1,9 @@
 baseline
-baseline3: spec
-	<version: 'baseline3' >
+baseline4: spec
+	<version: 'baseline4' >
 	spec for: #'common' do: [ 
 		spec blessing: #'baseline'.
-		spec repository: 'http://smalltalkhub.com/mc/BenjA/FullTextSearch/main'.
+		spec repository: 'http://smalltalkhub.com/mc/MaxLeske/FullTextSearch/main'.
 		spec 
 			package: 'FullTextSearch-Core' with: [
 				spec requires: #( 'PetitParser' )];
