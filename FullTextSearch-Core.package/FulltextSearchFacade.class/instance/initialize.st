@@ -1,3 +1,3 @@
 initialize-release
 initialize
-	index := self newIndexer.
+	index := self newIndex

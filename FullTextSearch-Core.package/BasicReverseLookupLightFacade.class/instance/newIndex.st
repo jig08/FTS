@@ -1,3 +1,3 @@
 initialize-release
-newIndexer
+newIndex
 	^BasicReverseLookupStoppingIndex new.

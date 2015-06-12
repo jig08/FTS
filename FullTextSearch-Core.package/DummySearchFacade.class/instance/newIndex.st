@@ -1,4 +1,4 @@
 initialize-release
-newIndexer
+newIndex
 "Create an index with a dictionnary"
 	^DummyIndex new.

@@ -1,0 +1,21 @@
+{
+	"category" : "FullTextSearch-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parens",
+		"expression",
+		"key",
+		"minusToken",
+		"choiceToken",
+		"orToken",
+		"exact",
+		"exactSearch" ],
+	"name" : "SearchQueryGrammar",
+	"pools" : [
+		 ],
+	"super" : "PPCompositeParser",
+	"type" : "normal" }
