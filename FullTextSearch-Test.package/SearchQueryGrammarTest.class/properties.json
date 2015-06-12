@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "ManifestFullTextSearchTest",
+	"name" : "SearchQueryGrammarTest",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "PPCompositeParserTest",
 	"type" : "normal" }

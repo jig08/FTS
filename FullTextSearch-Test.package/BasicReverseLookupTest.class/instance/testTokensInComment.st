@@ -1,4 +1,4 @@
-requirements
+tests
 testTokensInComment
 	self 
 		searchAllTokens: self tokensInComment 

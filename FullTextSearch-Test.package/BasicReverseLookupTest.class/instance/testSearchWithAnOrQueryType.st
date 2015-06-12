@@ -1,4 +1,4 @@
-requirements
+tests
 testSearchWithAnOrQueryType
 	| searchFacade result |
 	

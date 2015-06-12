@@ -1,4 +1,4 @@
-requirements
+tests
 testTokensInArray
 	self 
 		searchAllTokens: self tokensInArray 

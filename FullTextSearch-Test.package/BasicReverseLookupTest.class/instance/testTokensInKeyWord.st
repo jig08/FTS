@@ -1,4 +1,4 @@
-requirements
+tests
 testTokensInKeyWord
 	self 
 		searchAllTokens: self tokensInKeyWord

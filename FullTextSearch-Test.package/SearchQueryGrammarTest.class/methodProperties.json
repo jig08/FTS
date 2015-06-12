@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"parserClass" : "BenjaminAREZKI 11/27/2012 15:07",
+		"testChoiceExpression" : "BenjaminAREZKI 11/27/2012 15:32",
+		"testChoiceExpression2" : "BenjaminAREZKI 11/27/2012 15:42",
+		"testChoiceExpression3" : "BenjaminAREZKI 11/27/2012 15:43",
+		"testKeyLetter" : "BenjaminAREZKI 11/29/2012 09:41",
+		"testKeyNumber" : "BenjaminAREZKI 11/27/2012 15:15",
+		"testKeySelector" : "BenjaminAREZKI 1/17/2013 13:01",
+		"testKeySymbol" : "BenjaminAREZKI 11/27/2012 15:15",
+		"testMinusExpression" : "BenjaminAREZKI 11/28/2012 15:13",
+		"testMinusExpression2" : "BenjaminAREZKI 11/28/2012 15:13",
+		"testMinusExpression3" : "BenjaminAREZKI 11/28/2012 15:15",
+		"testOrExpression" : "BenjaminAREZKI 11/28/2012 15:11",
+		"testOrExpression2" : "BenjaminAREZKI 11/28/2012 15:11",
+		"testSimpleExpression" : "BenjaminAREZKI 11/28/2012 17:21" } }

@@ -1,4 +1,4 @@
-requirements
+tests
 testTokensInConstants
 	self 
 		searchAllTokens: self tokensInConstants

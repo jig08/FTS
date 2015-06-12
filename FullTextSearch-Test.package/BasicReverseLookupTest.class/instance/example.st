@@ -1,4 +1,4 @@
-tests
+requirements
 example
 	| searchFacade|	
 	searchFacade := self searchFacadeClass new.

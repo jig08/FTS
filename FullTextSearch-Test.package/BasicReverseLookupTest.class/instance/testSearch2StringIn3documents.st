@@ -1,4 +1,4 @@
-requirements
+tests
 testSearch2StringIn3documents
 	| searchFacade result |
 	

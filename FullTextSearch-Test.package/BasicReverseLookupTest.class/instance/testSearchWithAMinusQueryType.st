@@ -1,4 +1,4 @@
-requirements
+tests
 testSearchWithAMinusQueryType
 	| searchFacade result |
 	
